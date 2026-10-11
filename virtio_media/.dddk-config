@@ -1,0 +1,4 @@
+version=android16-6.12
+mode=docker
+source=github
+slim=true
